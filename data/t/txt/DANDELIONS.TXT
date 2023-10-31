@@ -1,0 +1,1 @@
+"Attack of the killer", "dandelions!", "A game by YAID CO.", "For t-OS 2 systems.", "Run dandelions.h to begin", "playing!", 1

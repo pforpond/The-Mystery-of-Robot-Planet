@@ -1,0 +1,1 @@
+"Warp activated.", "", "Check for flies", "before entering.", "", "", 1

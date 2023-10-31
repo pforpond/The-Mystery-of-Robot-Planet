@@ -1,0 +1,1 @@
+"Princess has arrived.", "Speech yet to", "take place. Orders", "still unknown.", "==END==", "", 1

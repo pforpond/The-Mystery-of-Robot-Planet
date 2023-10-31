@@ -1,0 +1,1 @@
+"Arrow Keys - Movement", "Space - Use", "I - Inventory", "Q - Back/Pause", "", "", 1

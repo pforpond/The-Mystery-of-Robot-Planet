@@ -1,0 +1,1 @@
+"Welcome to customs!", "Make sure you have", "all the required", "documents. Check", "DOCLIST.TXT for details.", "", 1

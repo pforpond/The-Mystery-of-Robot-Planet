@@ -1,0 +1,1 @@
+"'power.h' - power warp", "'exit.h' - power off terminal", "", "", "", "", 1

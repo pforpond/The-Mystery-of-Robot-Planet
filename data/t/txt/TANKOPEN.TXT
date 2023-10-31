@@ -1,0 +1,1 @@
+"Welcome to work", "janitorguy!", "Your uniform", "is now available!", "", "", 1

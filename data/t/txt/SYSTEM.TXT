@@ -1,0 +1,1 @@
+"t-os version 2.666.2a (REV B)", "", "MEMORY: 512k", "HDD: 10MB - 85% Free", "CPU: 100% Idle", "NETWORK ACTIVE", 1

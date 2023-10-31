@@ -1,0 +1,1 @@
+"Our network has", "been breached.", "All network functions", "are offline until", "we find out who did this.", "-ITGUY.", 1
